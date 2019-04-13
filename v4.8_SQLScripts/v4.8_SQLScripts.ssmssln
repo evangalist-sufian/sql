@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 11.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "v4.8_SQLScripts", "v4.8_SQLScripts\v4.8_SQLScripts.ssmssqlproj", "{BAC341AB-0739-4412-BB04-51AC5BAEF69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC341AB-0739-4412-BB04-51AC5BAEF69F}.Default|Default.ActiveCfg = Default
+		{FA0BC077-71D3-4E7A-BC0C-FE543E2D8A64}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
